@@ -40,11 +40,44 @@ h2{
     width: 500px;
     height: 5px;
     background-color: red;
-    left: 200px;
+    left: 700px;
     position: absolute;
     top: 190px;
 }
 h1{
     color: green;
     text-align: center;
+}
+
+.linhav{
+    width: 5px;
+    height: 500px;
+    background-color: black;
+    left: 880px;
+    position: absolute;
+    top: 110px;
+}
+.linhav2{
+    width: 5px;
+    height: 500px;
+    background-color: black;
+    left: 1005px;
+    position: absolute;
+    top: 110px;
+}
+.linhah{
+    width: 500px;
+    height: 5px;
+    background-color: black;
+    left: 700px;
+    position: absolute;
+    top: 258px;
+}
+.linhah2{
+    width: 500px;
+    height: 5px;
+    background-color: black;
+    left: 700px;
+    position: absolute;
+    top: 383px;
 }
